@@ -1,5 +1,7 @@
 Task Manager Application 📝
+
 Introduction
+
 Welcome to the Task Manager Application, a simple yet powerful tool designed to help you manage your daily tasks with ease. This application offers a user-friendly interface that allows you to add, delete, and restore tasks while also providing options to filter tasks based on priority and status.
 
 Features ✨
